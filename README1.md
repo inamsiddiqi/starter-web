@@ -7,3 +7,7 @@ as stated above the main purpose is to provide simple example for git training d
 ##deployment
 this is a simple web project, deployment can on any web server or even local file system
 ##how to contribu
+
+###copyright
+
+2020 git.training.
